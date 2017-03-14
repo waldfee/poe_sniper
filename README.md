@@ -2,19 +2,19 @@
 A democratic PoE trade sniping tool using Python.
 
 ##Installation
-* Install [Python 3.6](https://www.python.org/downloads/release/python-360/).
+* Install [Python 3.6](https://www.python.org/downloads/release/python-360/). Make sure you click the checkbox to add Python to PATH.
 * Install [Visual C++ 2015 Build Tools](http://landinghub.visualstudio.com/visual-cpp-build-tools)
 * Open a terminal (i.e. Powershell) with Administrator privledges.
 * Install missing packages with your package manager `pip install ujson`
 * Extract poe_sniper to a folder.
 * `cd` into the folder `cd C:\Users\<username>\Documents\poe_sniper`
-* execute command `./poe_sniper`
+* execute command `./poe_sniper.py`
 
 ##Usage
 Edit the searches.json for your search.
 * Everything is case sensitive.
 * See the searches.json for examples.
-Execute poe_sniper `./poe_sniper`
+Execute poe_sniper `./poe_sniper.py`
 CTRL + C to end the search.
 
 ###Required
