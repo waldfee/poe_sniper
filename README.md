@@ -7,8 +7,7 @@ A democratic PoE trade sniping tool using Python.
 * Open a terminal (i.e. Powershell) with Administrator privledges.
 * Install missing packages with your package manager `pip install ujson`
 * Extract poe_sniper to a folder.
-* `cd` into the folder `cd C:\Users\<username>\Documents\poe_sniper`
-* execute command `python poe_sniper.py`
+* Run the poe_sniper shortcut
 
 ##Usage
 Edit the searches.json for your search.

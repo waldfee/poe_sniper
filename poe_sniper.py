@@ -76,7 +76,7 @@ def parse_stashes(stashes, searches):
 
             found_item = ujson.loads(found_item)
             print(
-                found_item['price'], "\t\t\t"
+                found_item['price'], "\t"
                 "@" + character_name,
                 "I would like to buy your", found_item['name'],
                 "listed for", found_item['price'],
