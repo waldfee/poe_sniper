@@ -14,9 +14,10 @@ Edit the searches.json for your search.
 * See the searches.json for examples.
 * Use [JSONLint](http://jsonlint.com/) to validate your searches.json.
 
-* Run the poe_sniper shortcut
-* or Execute poe_sniper `python poe_sniper.py
+* Double-click to run the `poe_sniper_ps` or `poe_sniper_cmd` shortcut
+* or Execute poe_sniper `python poe_sniper.py`
 * CTRL + C to end the search.
+I recommend a terminal that doesn't scroll to the bottom on new input.
 
 ###Required
 * [Python 3.6](https://www.python.org/downloads/release/python-360/)
