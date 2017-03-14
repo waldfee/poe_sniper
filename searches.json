@@ -1,0 +1,22 @@
+{
+    "searches": [
+        {
+            "name" : "Cospri",
+            "league" : "Legacy",
+            "price_quantity" : 1,
+            "price_type" : "exa"
+        },
+        {
+            "name" : "Ancient Rel",
+            "league" : "Legacy",
+            "price_quantity" : 50,
+            "price_type" : "chaos"
+        },
+        {
+            "name" : "Jewel",
+            "league" : "Legacy",
+            "price_quantity" : 100,
+            "price_type" : "alt"
+        }
+    ]
+}
