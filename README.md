@@ -12,9 +12,12 @@ A democratic PoE trade sniping tool using Python.
 Edit the searches.json for your search.
 * Everything is case sensitive.
 * See the searches.json for examples.
-* Use [JSONLint](http://jsonlint.com/) to validate your searches.json.
-* Double-click to run the poe_sniper_ps or poe_sniper_cmd shortcut or execute with `python poe_sniper.py`
-* CTRL + C to end the search.
+
+Use [JSONLint](http://jsonlint.com/) to validate your searches.json.
+
+Double-click to run the poe_sniper_ps or poe_sniper_cmd shortcut or execute with `python poe_sniper.py`
+
+CTRL + C to end the search.
 
 I recommend a terminal that doesn't scroll to the bottom on new input.
 
