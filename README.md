@@ -8,13 +8,14 @@ A democratic PoE trade sniping tool using Python.
 * Install missing packages with your package manager `pip install ujson`
 * Extract poe_sniper to a folder.
 * `cd` into the folder `cd C:\Users\<username>\Documents\poe_sniper`
-* execute command `./poe_sniper.py`
+* execute command `python poe_sniper.py`
 
 ##Usage
 Edit the searches.json for your search.
 * Everything is case sensitive.
 * See the searches.json for examples.
-Execute poe_sniper `./poe_sniper.py`
+* Use [JSONLint](http://jsonlint.com/) to validate your searches.json.
+Execute poe_sniper `python poe_sniper.py`
 CTRL + C to end the search.
 
 ###Required
